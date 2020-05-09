@@ -1,4 +1,4 @@
-# TikBot
+# OdesliBot based on TikBot (not done yet)
 
 ![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)
 ![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/fronbasal/tikbot)
